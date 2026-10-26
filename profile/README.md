@@ -20,7 +20,7 @@
 pip install bynat
 ```
 
-Explore the source code, documentation, and releases [here](https://github.com/bynat-lab).
+Explore the source code, documentation, and releases [here](https://github.com/bynat-lab/bynat).
 
 ### Open Source
 
